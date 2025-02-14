@@ -1,14 +1,6 @@
 # 💫 About Me:
 ### Hi, my name is Roberto<br>
 
-I am a software developer from Rio de Janeiro, currently pursuing a degree in Computer Science, and my professional journey has been shaped within dynamic startup environments. In addition to software development, I also take on the role of a content creator, focusing on career and programming-related topics, sharing the lessons learned throughout my journey.
-
-My experience in the startup ecosystem has provided me with a solid understanding of crucial areas, including emergency management, emotional intelligence, and the ability to iterate quickly, experiment, make mistakes, and correct them.
-
-I highly value authentic relationships, a belief that is reflected in my founding of the Tech In Rio community (@techinrio), where we bring together individuals from the technology field in meetups and other initiatives, fostering an environment conducive to genuine connections.
-
-I am fully prepared to take on new challenges, maintaining my commitment to teamwork and nurturing authentic relationships in the technological landscape, both within and beyond the community.
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=robertheory&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=robertheory&theme=dracula&hide_border=false)<br/>
