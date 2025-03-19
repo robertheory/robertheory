@@ -2,11 +2,11 @@
 Software developer with over 10 years of programming experience, working mainly in startups, specializing in full stack development, software architecture and project leadership.
 
 📌 Main skills:
-✔️ Frontend and Full Stack Development (Next.js, TypeScript, React, Node.js, Golang)
-✔️ Software Architecture and Cloud Computing (AWS)
-✔️ Technical leadership and agile project management
-✔️ Requirements engineering and software quality
-✔️ Emotional intelligence and problem solving in dynamic environments
+- Frontend and Full Stack Development (Next.js, TypeScript, React, Node.js, Golang)
+- Software Architecture and Cloud Computing (AWS)
+- Technical leadership and agile project management
+- Requirements engineering and software quality
+- Emotional intelligence and problem solving in dynamic environments
 
 
 ## 🌐 Socials:
